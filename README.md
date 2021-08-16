@@ -18,11 +18,11 @@ Data sources:
 
 2) Visualization of the total number of coronavirus infections in Poland and in neighboring countries (without Germany).
 
-![alt text](https://github.com/kmlbober/koronascience_project/blob/main/img/1.png?raw=true)
+![alt text](https://github.com/kmlbober/koronascience_project/blob/main/img/2.png?raw=true)
 
 3) Visualization of the total number of coronavirus infections for selected countries. The countries most affected by the epidemic were included and compared with Poland.
 
-![alt text](https://github.com/kmlbober/koronascience_project/blob/main/img/2.png?raw=true)
+![alt text](https://github.com/kmlbober/koronascience_project/blob/main/img/1.png?raw=true)
 
 4) Generated visualization of coronavirus infection growth rate for a chosen country.
 
